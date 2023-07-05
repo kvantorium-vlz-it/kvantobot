@@ -6,6 +6,9 @@ dependencies:
     version: 14.11.0
 
 devDependencies:
+  '@types/node':
+    specifier: ^20.3.3
+    version: 20.3.3
   dotenv:
     specifier: ^16.3.1
     version: 16.3.1
@@ -357,7 +360,6 @@ packages:
 
   /@types/node@20.3.3:
     resolution: {integrity: sha512-wheIYdr4NYML61AjC8MKj/2jrR/kDQri/CIpVoZwldwhnIrD/j9jIU5bJ8yBKuB2VhpFV7Ab6G2XkBjv9r9Zzw==}
-    dev: false
 
   /@types/ws@8.5.5:
     resolution: {integrity: sha512-lwhs8hktwxSjf9UaZ9tG5M03PGogvFaH8gUgLNbN9HKIg0dvv6q+gkSuJ8HN4/VbyxkuLzCjlN7GquQ0gUJfIg==}
